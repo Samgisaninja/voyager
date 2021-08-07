@@ -1,0 +1,9 @@
+Package: com.samgisaninja.voyager
+Name: voyager
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Display UTC time without changing system time zone
+Maintainer: Samg_is_a_Ninja
+Author: Samg_is_a_Ninja
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
